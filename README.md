@@ -1,2 +1,3 @@
 # hello_world
-Initializing my github experience
+
+I'm here to keep track of my progress on Python and perhaps even Java if I'm good enough.
